@@ -1,1 +1,1 @@
-# short_text_clustering_activity_pattern_recogniztion
+# Activity-Travel Pattern Recognition of Individuals Using a Deep Short Text Clustering Algorithm
